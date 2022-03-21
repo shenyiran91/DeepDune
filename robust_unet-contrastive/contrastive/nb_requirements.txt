@@ -1,0 +1,13 @@
+einops
+nibabel
+numpy
+tensorboard
+tensorboardX
+tqdm
+timm
+ml-collections
+medpy
+SimpleITK
+scipy
+h5py
+opencv-python
